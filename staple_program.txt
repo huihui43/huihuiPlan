@@ -7,4 +7,6 @@ running
 
 oops! bugs here!
 
-xxxxx
+
+develop some new function here , on dev branch
+
