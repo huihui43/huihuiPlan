@@ -13,3 +13,7 @@ develop some new function here , on dev branch
 (oops! bug here!) fix bugs in the branch hotfix
 
 bug fixed!!!
+
+
+
+oops! a terrible bug on the master !!!
