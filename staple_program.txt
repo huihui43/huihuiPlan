@@ -16,4 +16,8 @@ bug fixed!!!
 
 
 
-oops! a terrible bug on the master !!!
+oops! a terrible bug on the master !!! (unexpected add lines in branch dev)
+
+develop second important function in dev
+
+new function finished!
