@@ -5,8 +5,4 @@ this is a stable program.
 running
 
 
-(oops! bugs here!) 
-
-
-
-fix bugs!
+oops! bug here!
