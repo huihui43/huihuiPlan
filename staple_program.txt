@@ -5,4 +5,6 @@ this is a stable program.
 running
 
 
-oops! bug here!
+(oops! bug here!) fix bugs in the branch hotfix
+
+bug fixed!!!
