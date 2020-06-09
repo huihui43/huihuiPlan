@@ -5,8 +5,14 @@ this is a stable program.
 running
 
 
+<<<<<<< HEAD
 oops! bugs here!
 
 
 develop some new function here , on dev branch
 
+=======
+(oops! bug here!) fix bugs in the branch hotfix
+
+bug fixed!!!
+>>>>>>> master
