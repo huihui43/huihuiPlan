@@ -16,4 +16,11 @@ bug fixed!!!
 
 
 
+
 (oops! a terrible bug on the master !!!) fix bugs in the branch bugfix
+
+
+develop second important function in dev
+
+new function finished!
+
