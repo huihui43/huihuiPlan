@@ -5,16 +5,6 @@ this is a stable program.
 running
 
 
-<<<<<<< Updated upstream
-(oops! bugs here!) 
-
-
-
-fix bugs!
-=======
 oops! bugs here!
 
-
-
-developing some new functions here...
->>>>>>> Stashed changes
+xxxxx
