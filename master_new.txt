@@ -1,0 +1,26 @@
+
+this is a stable program.
+
+
+running
+
+
+oops! bugs here!
+
+
+develop some new function here , on dev branch
+
+(oops! bug here!) fix bugs in the branch hotfix
+
+bug fixed!!!
+
+
+
+
+(oops! a terrible bug on the master !!!) fix bugs in the branch bugfix
+
+
+develop second important function in dev
+
+new function finished!
+
